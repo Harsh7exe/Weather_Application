@@ -1,0 +1,6 @@
+{
+  "name": "Harsh's Weather app",
+  "description": "An immersive and highly-customized weather tracker featuring responsive analytics, live severe weather alerts, activity level scoring, and AI-powered weather insights.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
